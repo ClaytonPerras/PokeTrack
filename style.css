@@ -1,0 +1,20 @@
+.img-pokemon {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 0;
+}
+
+input {
+    outline: none;
+    width: 15rem;
+}
+
+.container {
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.pokemon-name {
+    margin-top: 0;
+}
