@@ -1,7 +1,6 @@
 
 const form = document.querySelector('#searchForm');
 const container = document.querySelector('.container');
-
 form.addEventListener('submit', async function (e) {
     e.preventDefault();
     const searchTerm = form.elements.query.value;
